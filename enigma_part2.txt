@@ -1,0 +1,5 @@
+ 
+2.” Then I have to... \n
+- Check the source voltage \n 
+- Increase the variable resistor \n 
+- Inverse the LED direction ”
