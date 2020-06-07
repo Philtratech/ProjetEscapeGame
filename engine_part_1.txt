@@ -1,0 +1,5 @@
+
+1.” To start modifying the electric circuit, I have to start by: \n
+- Turning off the system \n
+- Cutting the red cable \n
+- Short-circuiting the system “
