@@ -1,0 +1,4 @@
+3. ”The last step is: \n
+- Change the fuse  \n
+- Swap the semiconductor from type N to type P \n
+- Replace the transistor”
